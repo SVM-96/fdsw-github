@@ -5,10 +5,10 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: left;  
 }
 
 /* Mis trabajos */
@@ -39,4 +39,7 @@ body {
 }
  #navname {
   color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 2rem;
+  font-style: oblique;
  }
