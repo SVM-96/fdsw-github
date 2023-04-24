@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: yellow;
+    font-size: 40px;
+}
+
+.azul{
+    color: blue;
+}
+h1{
+    color: white;
+}
+div{
+    width: 500px;
+    float: left;
+    margin-right: 50px  ;
+    margin-left: 50px;
+    border: solid salmon 4px;
+    margin-bottom: 50px;
+    padding: 100px;
+}
+
